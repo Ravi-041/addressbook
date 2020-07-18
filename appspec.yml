@@ -3,5 +3,5 @@ os: linux
 
 files:
   - source: ./
-    destination: /opt/apache-tomcat-8.5.35/webapps
+    destination: /opt/tomcat/webapps
     overwrite: yes
